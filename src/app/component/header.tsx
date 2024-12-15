@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-import pic from"./../../../../public/pic.jpg"
+import pic from"./../../../public/pic.jpg"
 import { MdEmail } from "react-icons/md";
 import { BsInstagram } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa";
