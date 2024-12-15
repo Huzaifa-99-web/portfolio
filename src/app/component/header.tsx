@@ -28,7 +28,7 @@ export default function Header(){
         <div className="header">
             <h1 className="head1">Hi,its <span id="span">Huzaifa</span></h1>
             <h3 className="head3"> i AM <br/><span id="span2"> web Developer</span></h3>
-            <p>Hello! I am an 18-year-old student currently studying at GIAIC. I'm enthusiastic about learning and always eager to explore new opportunities for growth and development.</p>
+            <p>Hello! I am an 18-year-old student currently studying at GIAIC. I&apos;m enthusiastic about learning and always eager to explore new opportunities for growth and development.</p>
            <div className="icons">
             <a href="www"><MdEmail/></a>
             <a href="www"><BsInstagram/></a>
